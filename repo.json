@@ -49,7 +49,7 @@
       },
       "shortDescription": "Xray client",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/webos.xray.cfg/index.html"
-    },    
+    },
     {
       "id": "lampa.tv",
       "title": "Lampa",
@@ -80,7 +80,7 @@
         "id": "icva",
         "version": "1.1.2",
         "type": "web",
-        "title": "ICVA", 
+        "title": "ICVA",
         "appDescription": "ICVA IPTV player",
         "iconUri": "https://webosappclub.github.io/apps/icva/icon.png",
         "sourceUrl": "https://github.com/yumata/lampa/",
@@ -93,7 +93,7 @@
       },
       "shortDescription": "IPTV player",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/icva/index.html"
-    },	
+    },
     {
       "id": "torrserv.matrix.app",
       "title": "Torrserver MatriX",
@@ -137,7 +137,7 @@
       },
       "shortDescription": "Wikipedia application",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/wikipedia.app/index.html"
-    },    
+    },
     {
       "id": "webos.screen.off",
       "title": "Screen OFF",
@@ -159,7 +159,7 @@
       },
       "shortDescription": "1-click screen OFF",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/webos.screen.off/index.html"
-    },    
+    },
     {
       "id": "webos.energy.saving",
       "title": "Экономия энергии",
@@ -446,52 +446,6 @@
       "shortDescription": "Flex",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/kinoflex.ru/"
     },
-    {
-      "id": "com.ssiptv.app",
-      "title": "SS IPTV",
-      "iconUri": "https://webosappclub.github.io/apps/com.ssiptv.app/icon.png",
-      "manifest": {
-        "id": "com.ssiptv.app",
-        "version": "1.0.612",
-        "type": "web",
-        "title": "SS IPTV",
-        "appDescription": "IPTV Player",
-        "iconUri": "https://webosappclub.github.io/apps/com.ssiptv.app/icon.png",
-        "sourceUrl": "https://ss-iptv.com",
-        "rootRequired": false,
-        "ipkUrl": "https://webosappclub.github.io/apps/com.ssiptv.app/com.ssiptv.app_1.0.612_all.ipk",
-        "ipkHash": {
-          "sha256": "80ab4e267eae473fe328885cda81871a2121a7210bdd9a07dc09cbff84c96a07"
-        },
-        "ipkSize": 172850
-      },
-      "shortDescription": "SS IPTV",
-      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.ssiptv.app/"
-    }
-  ]
-}
-{
-  "id": "com.alcyone.vpn",
-  "title": "Alcyone",
-  "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
-  "manifest": {
-    "id": "com.alcyone.vpn",
-    "version": "3.0.0",
-    "type": "web",
-    "title": "Alcyone",
-    "appDescription": "VPN client for rooted LG webOS TVs",
-    "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
-    "sourceUrl": "",
-    "rootRequired": true,
-    "ipkUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/com.alcyone.vpn_3.0.0_all.ipk",
-    "ipkHash": {
-      "sha256": "5c975a39451a3247e7da8d475f3c30b5c6cb996ede0c6a23cdf362ac5bbd35ed"
-    },
-    "ipkSize": 13503580
-  },
-  "shortDescription": "VPN client for rooted LG webOS TVs",
-  "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/index.html"
-}
     {
       "id": "com.ssiptv.app",
       "title": "SS IPTV",
