@@ -470,3 +470,71 @@
     }
   ]
 }
+{
+  "id": "com.alcyone.vpn",
+  "title": "Alcyone",
+  "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
+  "manifest": {
+    "id": "com.alcyone.vpn",
+    "version": "3.0.0",
+    "type": "web",
+    "title": "Alcyone",
+    "appDescription": "VPN client for rooted LG webOS TVs",
+    "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
+    "sourceUrl": "",
+    "rootRequired": true,
+    "ipkUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/com.alcyone.vpn_3.0.0_all.ipk",
+    "ipkHash": {
+      "sha256": "5c975a39451a3247e7da8d475f3c30b5c6cb996ede0c6a23cdf362ac5bbd35ed"
+    },
+    "ipkSize": 13503580
+  },
+  "shortDescription": "VPN client for rooted LG webOS TVs",
+  "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/index.html"
+}
+    {
+      "id": "com.ssiptv.app",
+      "title": "SS IPTV",
+      "iconUri": "https://webosappclub.github.io/apps/com.ssiptv.app/icon.png",
+      "manifest": {
+        "id": "com.ssiptv.app",
+        "version": "1.0.612",
+        "type": "web",
+        "title": "SS IPTV",
+        "appDescription": "IPTV Player",
+        "iconUri": "https://webosappclub.github.io/apps/com.ssiptv.app/icon.png",
+        "sourceUrl": "https://ss-iptv.com",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.ssiptv.app/com.ssiptv.app_1.0.612_all.ipk",
+        "ipkHash": {
+          "sha256": "80ab4e267eae473fe328885cda81871a2121a7210bdd9a07dc09cbff84c96a07"
+        },
+        "ipkSize": 172850
+      },
+      "shortDescription": "SS IPTV",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.ssiptv.app/"
+    },
+    {
+      "id": "com.alcyone.vpn",
+      "title": "Alcyone",
+      "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
+      "manifest": {
+        "id": "com.alcyone.vpn",
+        "version": "3.0.0",
+        "type": "web",
+        "title": "Alcyone",
+        "appDescription": "VPN client for rooted LG webOS TVs",
+        "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
+        "sourceUrl": "",
+        "rootRequired": true,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/com.alcyone.vpn_3.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "5c975a39451a3247e7da8d475f3c30b5c6cb996ede0c6a23cdf362ac5bbd35ed"
+        },
+        "ipkSize": 13503580
+      },
+      "shortDescription": "VPN client for rooted LG webOS TVs",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/index.html"
+    }
+  ]
+}
