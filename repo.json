@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 1,
+    "count": 22,
     "maxPage": 1,
-    "itemsTotal": 1
+    "itemsTotal": 22
   },
   "packages": [
     {
@@ -162,14 +162,14 @@
     },
     {
       "id": "webos.energy.saving",
-      "title": "Экономия энергии",
+      "title": "Р­РєРѕРЅРѕРјРёСЏ СЌРЅРµСЂРіРёРё",
       "iconUri": "https://webosappclub.github.io/apps/webos.energy.saving/icon.png",
       "manifest": {
         "id": "webos.energy.saving",
         "version": "3.0.1",
         "type": "native",
-        "title": "Экономия энергии",
-        "appDescription": "Настройка экономии энергии",
+        "title": "Р­РєРѕРЅРѕРјРёСЏ СЌРЅРµСЂРіРёРё",
+        "appDescription": "РќР°СЃС‚СЂРѕР№РєР° СЌРєРѕРЅРѕРјРёРё СЌРЅРµСЂРіРёРё",
         "iconUri": "https://webosappclub.github.io/apps/webos.energy.saving/icon.png",
         "sourceUrl": "",
         "rootRequired": false,
@@ -316,14 +316,14 @@
     },
     {
       "id": "com.geforcenow.play",
-      "title": "NVIDIA GeForce® NOW™",
+      "title": "NVIDIA GeForceВ® NOWв„ў",
       "iconUri": "https://webosappclub.github.io/apps/com.geforcenow.play/icon.png",
       "manifest": {
         "id": "com.geforcenow.play",
         "version": "1.0.3",
         "type": "web",
-        "title": "NVIDIA GeForce® NOW™ ",
-        "appDescription": "Official NVIDIA GeForce® NOW™ app",
+        "title": "NVIDIA GeForceВ® NOWв„ў ",
+        "appDescription": "Official NVIDIA GeForceВ® NOWв„ў app",
         "iconUri": "https://webosappclub.github.io/apps/com.geforcenow.play/icon.png",
         "sourceUrl": "https://www.nvidia.com/en-eu/geforce-now/",
         "rootRequired": false,
@@ -333,7 +333,7 @@
         },
         "ipkSize": 79764
       },
-      "shortDescription": "Official NVIDIA GeForce® NOW™ app",
+      "shortDescription": "Official NVIDIA GeForceВ® NOWв„ў app",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.geforcenow.play/"
     },
     {
@@ -433,7 +433,7 @@
         "version": "1.8.0",
         "type": "web",
         "title": "Flex",
-        "appDescription": "ОНЛАЙН-КИНОТЕАТР FLEX",
+        "appDescription": "РћРќР›РђР™Рќ-РљРРќРћРўР•РђРўР  FLEX",
         "iconUri": "https://webosappclub.github.io/apps/kinoflex.ru/icon.png",
         "sourceUrl": "https://kinoflex.ru",
         "rootRequired": false,
@@ -471,24 +471,24 @@
     {
       "id": "com.alcyone.vpn",
       "title": "Alcyone",
-      "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
+      "iconUri": "https://raw.githubusercontent.com/nguyenvanvuong2395-coder/webosappclub.github.io/main/apps/com.alcyone.vpn/icon.png",
       "manifest": {
         "id": "com.alcyone.vpn",
         "version": "3.0.0",
         "type": "web",
         "title": "Alcyone",
         "appDescription": "VPN client for rooted LG webOS TVs",
-        "iconUri": "https://webosappclub.github.io/apps/com.alcyone.vpn/icon.png",
+        "iconUri": "https://raw.githubusercontent.com/nguyenvanvuong2395-coder/webosappclub.github.io/main/apps/com.alcyone.vpn/icon.png",
         "sourceUrl": "",
         "rootRequired": true,
-        "ipkUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/com.alcyone.vpn_3.0.0_all.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/nguyenvanvuong2395-coder/webosappclub.github.io/main/apps/com.alcyone.vpn/com.alcyone.vpn_3.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "5c975a39451a3247e7da8d475f3c30b5c6cb996ede0c6a23cdf362ac5bbd35ed"
+          "sha256": "08fa859ce056d592ad8401d21848bbdc5dc253846aa4587a1930e80168579fee"
         },
-        "ipkSize": 13503580
+        "ipkSize": 13507266
       },
       "shortDescription": "VPN client for rooted LG webOS TVs",
-      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.alcyone.vpn/index.html"
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/nguyenvanvuong2395-coder/webosappclub.github.io/main/apps/com.alcyone.vpn/index.html"
     }
   ]
 }
